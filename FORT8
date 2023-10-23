@@ -1,0 +1,650 @@
+ NCOUNT=  1
+  DIATOMIC HYDROGEN                                                              
+ DD=  0.7410   UZ*EVAU=     0.4300  eV
+    BINDING ENERGY    =     4.5479 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  1.0000, CHARGE  0.0000
+  VALENCE ELECTRON DENSITY  1.0000, CHARGE  0.0000
+     DE=  4.5479       DP=    0.0000   CHRG1=  0.0000   BBB=  16.4300
+ NES=  2  XDE=   4.480  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT=  2
+  DIATOMIC HYDROGEN +ION                                                         
+ DD=  1.0520   UZ*EVAU=     0.4509  eV
+    BINDING ENERGY    =     1.4986 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  0.5000, CHARGE  0.5000   A =   269.930
+  VALENCE ELECTRON DENSITY  0.5000, CHARGE  0.5000   A =   269.930
+     DE=  1.4986       DP=    0.0000   CHRG1=  0.5000   BBB=   8.4509
+ NES=  1  XDE=   2.650  XDM=   0.000  Q1(1,1)=  0.5000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT=  3
+  DIATOMIC HELIUM +ION  2.36 eV                                                  
+ DD=  1.0800   UZ*EVAU=    -1.9655  eV
+    BINDING ENERGY    =     2.3923 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  1.5000, CHARGE  0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  1.5000, CHARGE  0.5000   A =     0.000
+     DE=  2.3923       DP=    0.0000   CHRG1=  0.5000   BBB=  25.4095
+ NES=  3  XDE=   2.360  XDM=   0.000  Q1(1,1)=  0.5000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT=  4
+  HELIUM HYDRIDE +ION                                                            
+ DD=  0.7740   UZ*EVAU=     0.1406  eV
+    BINDING ENERGY    =     1.7870 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  1.4518, CHARGE  0.5482
+  VALENCE ELECTRON DENSITY  0.5482, CHARGE  0.4518
+     DE=  1.7870       DP=   -0.1559   CHRG1=  0.5530   BBB=  17.8281
+ NES=  2  XDE=   1.840  XDM=   0.000  Q1(1,1)=  0.5536  Q1(1,2)=   0.0000
+ NP=  5  DELTA CHARGE=  0.0017
+ NCOUNT=  5
+  HELIUM-NEON +ION   0.69 eV                                                     
+ DD=  1.3000   UZ*EVAU=     0.1012  eV
+    BINDING ENERGY    =     0.8713 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  1.5733, CHARGE  0.4267   A =     0.000
+  VALENCE ELECTRON DENSITY  7.4267, CHARGE  0.5733   A =     0.000
+     DE=  0.8713       DP=   -0.3980   CHRG1=  0.4225   BBB= 193.5844
+ NES=  9  XDE=   0.690  XDM=   0.000  Q1(1,1)=  0.4219  Q1(1,2)=   0.0000
+ NP=  5  DELTA CHARGE=  0.0014
+ NCOUNT=  6
+  DIATOMIC LITHIUM                                                               
+ DD=  2.6730   UZ*EVAU=     0.1448  eV
+    BINDING ENERGY    =     0.7528 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  1.0000, CHARGE  0.0000
+  VALENCE ELECTRON DENSITY  1.0000, CHARGE  0.0000
+     DE=  0.7528       DP=   -0.0787   CHRG1=  0.0000   BBB=  11.8688
+ NES=  2  XDE=   1.040  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT=  7
+  LITHIUM HYDRIDE                                                                
+ DD=  1.5960   UZ*EVAU=     0.0889  eV
+    BINDING ENERGY    =     2.8003 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  0.2600, CHARGE  0.7400
+  VALENCE ELECTRON DENSITY  1.7400, CHARGE -0.7400
+     DE=  2.8003       DP=   -5.8336   CHRG1=  0.7216   BBB=  13.9509
+ NES=  2  XDE=   2.430  XDM=  -5.880  Q1(1,1)=  0.7201  Q1(1,2)=   0.0000
+ NP=  7  DELTA CHARGE=  0.0027
+ NCOUNT=  8
+  LITHIUM OXIDE                                                                  
+ DD=  1.6950   UZ*EVAU=     0.0183  eV
+    BINDING ENERGY    =     3.9645 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  0.0682, CHARGE  0.9318   A =     0.000
+  VALENCE ELECTRON DENSITY  6.9318, CHARGE -0.9318   A =     0.000
+     DE=  3.9645       DP=   -6.5941   CHRG1=  0.9457   BBB= 146.0342
+ NES=  7  XDE=   3.490  XDM=  -6.840  Q1(1,1)=  0.9474  Q1(1,2)=   0.0000
+ NP=  5  DELTA CHARGE=  0.0046
+ NCOUNT=  9
+  LITHIUM FLUORIDE                                                               
+ DD=  1.5640   UZ*EVAU=     0.0298  eV
+    BINDING ENERGY    =     5.6646 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  0.0417, CHARGE  0.9583
+  VALENCE ELECTRON DENSITY  7.9583, CHARGE -0.9583
+     DE=  5.6646       DP=   -6.2540   CHRG1=  0.9606   BBB= 188.9785
+ NES=  8  XDE=   5.910  XDM=  -6.280  Q1(1,1)=  0.9609  Q1(1,2)=   0.0000
+ NP=  5  DELTA CHARGE=  0.0007
+ NCOUNT= 10
+  BERYLLIUM HYDRIDE                                                              
+ DD=  1.3430   UZ*EVAU=    -0.4739  eV
+    BINDING ENERGY    =     3.0973 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  2.0211, CHARGE -0.0211   A =     0.000
+  VALENCE ELECTRON DENSITY  0.9789, CHARGE  0.0211   A =     0.000
+     DE=  3.0973       DP=    3.5324   CHRG1= -0.0211   BBB=  23.6367
+ NES=  3  XDE=   2.030  XDM=   0.000  Q1(1,1)= -0.0211  Q1(1,2)=   0.0000
+ NP=  5  DELTA CHARGE=  0.0000
+ NCOUNT= 11
+  BERYLLIUM HYDRIDE +ION                                                         
+ DD=  1.3120   UZ*EVAU=    -0.5370  eV
+    BINDING ENERGY    =     1.9875 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  1.0374, CHARGE  0.9626
+  VALENCE ELECTRON DENSITY  0.9626, CHARGE  0.0374
+     DE=  1.9875       DP=   -6.2464   CHRG1=  0.9662   BBB=  15.5460
+ NES=  2  XDE=   3.140  XDM=   0.000  Q1(1,1)=  0.9667  Q1(1,2)=   0.0000
+ NP=  5  DELTA CHARGE=  0.0012
+ NCOUNT= 12
+  BERYLLIUM OXIDE                                                                
+ DD=  1.3310   UZ*EVAU=     0.1459  eV
+    BINDING ENERGY    =     5.4835 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  1.1249, CHARGE  0.8751
+  VALENCE ELECTRON DENSITY  6.8751, CHARGE -0.8751
+     DE=  5.4835       DP=   -6.0335   CHRG1=  0.9984   BBB= 157.0919
+ NES=  8  XDE=   4.600  XDM=   0.000  Q1(1,1)=  1.0012  Q1(1,2)=   0.0000
+ NP= 23  DELTA CHARGE=  0.0032
+ NCOUNT= 13
+  BERYLLIUM FLUORIDE                                                             
+ DD=  1.3610   UZ*EVAU=    -0.1686  eV
+    BINDING ENERGY    =     5.1072 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  1.4327, CHARGE  0.5673   A =     0.000
+  VALENCE ELECTRON DENSITY  7.5673, CHARGE -0.5673   A =     0.000
+     DE=  5.1072       DP=   -0.5671   CHRG1=  0.5771   BBB= 190.6311
+ NES=  9  XDE=   5.850  XDM=   0.000  Q1(1,1)=  0.5779  Q1(1,2)=   0.0000
+ NP=  7  DELTA CHARGE=  0.0015
+ NCOUNT= 14
+  DIATOMIC BORON                                                                 
+ DD=  1.5900   UZ*EVAU=     0.1309  eV
+    BINDING ENERGY    =     3.2589 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.0000, CHARGE  0.0000   A =     0.000
+  VALENCE ELECTRON DENSITY  3.0000, CHARGE  0.0000   A =     0.000
+     DE=  3.2589       DP=    0.0000   CHRG1=  0.0000   BBB= 102.8254
+ NES=  6  XDE=   3.000  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 15
+  BORON HYDRIDE                                                                  
+ DD=  1.2320   UZ*EVAU=     0.1242  eV
+    BINDING ENERGY    =     4.3608 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.2331, CHARGE -0.2331
+  VALENCE ELECTRON DENSITY  0.7669, CHARGE  0.2331
+     DE=  4.3608       DP=    1.1999   CHRG1= -0.2224   BBB=  62.1417
+ NES=  4  XDE=   3.420  XDM=   1.270  Q1(1,1)=  0.0000  Q1(1,2)=  -0.2215
+ NP=  7  DELTA CHARGE=  0.0015
+ NCOUNT= 16
+  BORON HYDRIDE +ION                                                             
+ DD=  1.2150   UZ*EVAU=     0.0579  eV
+    BINDING ENERGY    =     1.9966 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  2.6119, CHARGE  0.3881   A =     0.000
+  VALENCE ELECTRON DENSITY  0.3881, CHARGE  0.6119   A =   209.493
+     DE=  1.9966       DP=   -0.5684   CHRG1=  0.3878   BBB=  50.9452
+ NES=  3  XDE=   1.950  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.3878
+ NP=  5  DELTA CHARGE=  0.0001
+ NCOUNT= 17
+  BORON CARBIDE  S2P2                                                            
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.4910   UZ*EVAU=     4.4347  eV
+    BINDING ENERGY    =     5.1144 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.3610, CHARGE -0.3610   A =     0.000
+  VALENCE ELECTRON DENSITY  3.6390, CHARGE  0.3610   A =     0.000
+     DE=  5.1144       DP=    2.7357   CHRG1= -0.2771   BBB= 122.5547
+ NES=  7  XDE=   4.600  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.2736
+ NP= 13  DELTA CHARGE=  0.0042
+ NCOUNT= 18
+  BORON NITRIDE                                                                  
+ DD=  1.2810   UZ*EVAU=     4.6941  eV
+    BINDING ENERGY    =     6.1390 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.5602, CHARGE -0.5602   A =     0.000
+  VALENCE ELECTRON DENSITY  4.4398, CHARGE  0.5602   A =     0.000
+     DE=  6.1390       DP=    3.5380   CHRG1= -0.3704   BBB= 147.7164
+ NES=  8  XDE=   5.090  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.3657
+ NP= 21  DELTA CHARGE=  0.0052
+ NCOUNT= 19
+  BORON OXIDE                                                                    
+ DD=  1.2040   UZ*EVAU=     5.3862  eV
+    BINDING ENERGY    =     6.7563 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.1109, CHARGE -0.1109   A =     0.000
+  VALENCE ELECTRON DENSITY  5.8891, CHARGE  0.1109   A =     0.000
+     DE=  6.7563       DP=    0.9973   CHRG1= -0.1239   BBB= 182.7924
+ NES=  9  XDE=   8.280  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.1255
+ NP=  5  DELTA CHARGE=  0.0048
+ NCOUNT= 20
+  BORON FLUORIDE                                                                 
+ DD=  1.2620   UZ*EVAU=     0.7271  eV
+    BINDING ENERGY    =     6.0649 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.0998, CHARGE -0.0998
+  VALENCE ELECTRON DENSITY  6.9002, CHARGE  0.0998
+     DE=  6.0649       DP=    0.5262   CHRG1= -0.1138   BBB= 213.3946
+ NES= 10  XDE=   7.800  XDM=   0.500  Q1(1,1)=  0.0000  Q1(1,2)=  -0.1147
+ NP=  9  DELTA CHARGE=  0.0014
+ NCOUNT= 21
+  DIATOMIC CARBON   S2P2                                                         
+ CARBON HYBRIDIZATION IS S2P2
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.2420   UZ*EVAU=     0.4758  eV
+    BINDING ENERGY    =     6.6148 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.0000, CHARGE  0.0000
+  VALENCE ELECTRON DENSITY  4.0000, CHARGE  0.0000
+     DE=  6.6148       DP=    0.0000   CHRG1=  0.0000   BBB= 140.5694
+ NES=  8  XDE=   6.210  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 22
+  DIATOMIC CARBON +ION   S2P2                                                    
+ CARBON HYBRIDIZATION IS S2P2
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.3010   UZ*EVAU=     0.1798  eV
+    BINDING ENERGY    =     5.0331 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.5000, CHARGE  0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  3.5000, CHARGE  0.5000   A =     0.000
+     DE=  5.0331       DP=    0.0000   CHRG1=  0.5000   BBB= 115.1471
+ NES=  7  XDE=   5.300  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 23
+  DIATOMIC CARBON -ION   S2P2                                                    
+ CARBON HYBRIDIZATION IS S2P2
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.2680   UZ*EVAU=     0.6127  eV
+    BINDING ENERGY    =     7.3481 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.5000, CHARGE -0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  4.5000, CHARGE -0.5000   A =     0.000
+     DE=  7.3481       DP=    0.0000   CHRG1= -0.5000   BBB= 168.6431
+ NES=  9  XDE=   8.400  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 24
+  CARBON HYDRIDE    S2P2                                                         
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.1200   UZ*EVAU=     0.1602  eV
+    BINDING ENERGY    =     3.9361 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.2143, CHARGE -0.2143   A =     0.000
+  VALENCE ELECTRON DENSITY  0.7857, CHARGE  0.2143   A =     0.000
+     DE=  3.9361       DP=    1.0028   CHRG1= -0.1899   BBB=  81.7902
+ NES=  5  XDE=   3.460  XDM=   1.460  Q1(1,1)=  0.0000  Q1(1,2)=  -0.1879
+ NP=  7  DELTA CHARGE=  0.0034
+ NCOUNT= 25
+  CARBON HYDRIDE +ION  S2P2                                                      
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.1310   UZ*EVAU=     0.1020  eV
+    BINDING ENERGY    =     2.8253 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  2.9553, CHARGE  1.0447   A =     0.000
+  VALENCE ELECTRON DENSITY  1.0447, CHARGE -0.0447   A =     0.000
+     DE=  2.8253       DP=   -2.5743   CHRG1=  1.0033   BBB=  52.8330
+ NES=  4  XDE=   4.080  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   1.0007
+ NP=  9  DELTA CHARGE=  0.0038
+ NCOUNT= 26
+  CARBON HYDRIDE -ION   S2P2                                                     
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.0800   UZ*EVAU=     0.3128  eV
+    BINDING ENERGY    =     4.4164 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.3368, CHARGE -1.3368   A =     0.000
+  VALENCE ELECTRON DENSITY  0.6632, CHARGE  0.3368   A =     0.000
+     DE=  4.4164       DP=    3.7763   CHRG1= -1.3363   BBB= 107.0085
+ NES=  6  XDE=   3.430  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -1.3363
+ NP=  7  DELTA CHARGE=  0.0001
+ NCOUNT= 27
+  CARBON NITRIDE     S2P2                                                        
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.1720   UZ*EVAU=     0.5880  eV
+    BINDING ENERGY    =     7.6713 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.8086, CHARGE  0.1914   A =     0.000
+  VALENCE ELECTRON DENSITY  5.1914, CHARGE -0.1914   A =     0.000
+     DE=  7.6713       DP=   -0.9374   CHRG1=  0.2136   BBB= 166.6817
+ NES=  9  XDE=   7.700  XDM=  -1.450  Q1(1,1)=  0.0000  Q1(1,2)=   0.2148
+ NP= 11  DELTA CHARGE=  0.0017
+ NCOUNT= 28
+  CARBON NITRIDE +ION    S2P2                                                    
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.1730   UZ*EVAU=     0.3891  eV
+    BINDING ENERGY    =     6.2520 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.5842, CHARGE  0.4158
+  VALENCE ELECTRON DENSITY  4.4158, CHARGE  0.5842
+     DE=  6.2520       DP=   -0.4128   CHRG1=  0.4079   BBB= 155.7858
+ NES=  8  XDE=   4.800  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.4072
+ NP=  7  DELTA CHARGE=  0.0014
+ NCOUNT= 29
+  CARBON NITRIDE -ION    S1P3                                                    
+ CARBON HYBRIDIZATION IS S1P3
+ DD=  1.1710   UZ*EVAU=     1.2952  eV
+    BINDING ENERGY    =    11.0692 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.2837, CHARGE -0.2837   A =     0.000
+  VALENCE ELECTRON DENSITY  5.7163, CHARGE -0.7163   A =     0.000
+     DE= 11.0692       DP=    0.3696   CHRG1= -0.2714   BBB= 175.7724
+ NES= 10  XDE=  10.300  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.2707
+ NP=  9  DELTA CHARGE=  0.0015
+ NCOUNT= 30
+  CARBON MONOXIDE    S1P3                                                        
+ CARBON HYBRIDIZATION IS S1P3
+ DD=  1.1280   UZ*EVAU=     1.8086  eV
+    BINDING ENERGY    =    10.6152 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.0426, CHARGE -0.0426   A =     0.000
+  VALENCE ELECTRON DENSITY  5.9574, CHARGE  0.0426   A =     0.000
+     DE= 10.6152       DP=    0.8827   CHRG1= -0.0406   BBB= 203.9378
+ NES= 10  XDE=  11.090  XDM=   0.110  Q1(1,1)=  0.0000  Q1(1,2)=  -0.0405
+ NP= 11  DELTA CHARGE=  0.0002
+ NCOUNT= 31
+  CARBON MONOXIDE  S1P3 TRIPLET  DM=+/-1.38                                      
+ CARBON HYBRIDIZATION IS S1P3
+ DD=  1.2060   UZ*EVAU=     1.0427  eV
+    BINDING ENERGY    =     6.3762 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.0921, CHARGE -0.0921   A =    20.275
+  VALENCE ELECTRON DENSITY  5.9079, CHARGE  0.0921   A =     0.000
+     DE=  6.3762       DP=    0.6839   CHRG1= -0.0989   BBB= 202.7361
+ NES= 10  XDE=  -9.000  XDM=   1.380  Q1(1,1)=  0.0000  Q1(1,2)=  -0.0993
+ NP=  9  DELTA CHARGE=  0.0009
+ NCOUNT= 32
+  CARBON MONOXIDE +ION   S2P2                                                    
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.1150   UZ*EVAU=     1.1750  eV
+    BINDING ENERGY    =     7.3129 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.4306, CHARGE  0.5694   A =     0.000
+  VALENCE ELECTRON DENSITY  5.5694, CHARGE  0.4306   A =     0.000
+     DE=  7.3129       DP=   -0.3233   CHRG1=  0.5900   BBB= 187.7663
+ NES=  9  XDE=   8.330  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.5913
+ NP=  9  DELTA CHARGE=  0.0020
+ NCOUNT= 33
+  CARBON MONOXIDE -ION   S1P3  8.1 DE; ESTIMATED Re                              
+ CARBON HYBRIDIZATION IS S1P3
+ DD=  1.2500   UZ*EVAU=     1.0110  eV
+    BINDING ENERGY    =     8.0920 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.1939, CHARGE -0.1939   A =     0.000
+  VALENCE ELECTRON DENSITY  6.8061, CHARGE -0.8061   A =     0.000
+     DE=  8.0920       DP=    1.0567   CHRG1= -0.1834   BBB= 211.8734
+ NES= 11  XDE=   8.100  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.1830
+ NP= 13  DELTA CHARGE=  0.0007
+ NCOUNT= 34
+  CARBON FLUORIDE     S2P2                                                       
+ CARBON HYBRIDIZATION IS S2P2
+ DD=  1.2720   UZ*EVAU=     0.4958  eV
+    BINDING ENERGY    =     6.1293 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.8493, CHARGE  0.1507   A =     0.000
+  VALENCE ELECTRON DENSITY  7.1507, CHARGE -0.1507   A =     0.000
+     DE=  6.1293       DP=   -0.8011   CHRG1=  0.1412   BBB= 233.0474
+ NES= 11  XDE=   5.670  XDM=  -0.640  Q1(1,1)=  0.0000  Q1(1,2)=   0.1400
+ NP=  5  DELTA CHARGE=  0.0030
+ NCOUNT= 35
+  DIATOMIC NITROGEN                                                              
+ DD=  1.0980   UZ*EVAU=     0.8971  eV
+    BINDING ENERGY    =     9.3927 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.0000, CHARGE  0.0000
+  VALENCE ELECTRON DENSITY  5.0000, CHARGE  0.0000
+     DE=  9.3927       DP=    0.0000   CHRG1=  0.0000   BBB= 197.2826
+ NES= 10  XDE=   9.760  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 36
+  DIATOMIC NITROGEN +ION                                                         
+ DD=  1.1160   UZ*EVAU=     0.5562  eV
+    BINDING ENERGY    =     8.3267 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.5000, CHARGE  0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  4.5000, CHARGE  0.5000   A =     0.000
+     DE=  8.3267       DP=    0.0000   CHRG1=  0.5000   BBB= 162.4306
+ NES=  9  XDE=   8.710  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 37
+  DIATOMIC NITROGEN -ION                                                         
+ DD=  1.1900   UZ*EVAU=     0.5080  eV
+    BINDING ENERGY    =     7.1110 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.5000, CHARGE -0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  5.5000, CHARGE -0.5000   A =     0.000
+     DE=  7.1110       DP=    0.0000   CHRG1= -0.5000   BBB= 212.3685
+ NES= 11  XDE=   7.930  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 38
+  NITROGEN HYDRIDE                                                               
+ DD=  1.0360   UZ*EVAU=     0.1858  eV
+    BINDING ENERGY    =     3.6890 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.3087, CHARGE -0.3087   A =     0.000
+  VALENCE ELECTRON DENSITY  0.6913, CHARGE  0.3087   A =     0.000
+     DE=  3.6890       DP=    1.3366   CHRG1= -0.3360   BBB= 108.5991
+ NES=  6  XDE=   3.470  XDM=   1.390  Q1(1,1)=  0.0000  Q1(1,2)=  -0.3374
+ NP= 11  DELTA CHARGE=  0.0020
+ NCOUNT= 39
+  NITROGEN HYDRIDE +ION                                                          
+ DD=  1.0700   UZ*EVAU=     0.0997  eV
+    BINDING ENERGY    =     2.4171 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.2095, CHARGE  0.7905   A =     0.000
+  VALENCE ELECTRON DENSITY  0.7905, CHARGE  0.2095   A =     0.000
+     DE=  2.4171       DP=   -1.2989   CHRG1=  0.7581   BBB=  78.4458
+ NES=  5  XDE=   3.390  XDM=  -1.480  Q1(1,1)=  0.0000  Q1(1,2)=   0.7561
+ NP=  9  DELTA CHARGE=  0.0028
+ NCOUNT= 40
+  NITROGEN OXIDE                                                                 
+ DD=  1.1510   UZ*EVAU=     0.9728  eV
+    BINDING ENERGY    =     7.5896 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.9663, CHARGE  0.0337   A =     0.000
+  VALENCE ELECTRON DENSITY  6.0337, CHARGE -0.0337   A =     0.000
+     DE=  7.5896       DP=   -0.1622   CHRG1=  0.0299   BBB= 226.8230
+ NES= 11  XDE=   6.500  XDM=  -0.160  Q1(1,1)=  0.0000  Q1(1,2)=   0.0294
+ NP=  5  DELTA CHARGE=  0.0011
+ NCOUNT= 41
+  NITROGEN OXIDE +ION                                                            
+ DD=  1.0630   UZ*EVAU=     1.8582  eV
+    BINDING ENERGY    =     9.5313 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.0006, CHARGE  0.9994   A =     0.000
+  VALENCE ELECTRON DENSITY  5.9994, CHARGE  0.0006   A =     0.000
+     DE=  9.5313       DP=   -2.2183   CHRG1=  0.9324   BBB= 206.7657
+ NES= 10  XDE=  10.850  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.9290
+ NP= 11  DELTA CHARGE=  0.0043
+ NCOUNT= 42
+  NITROGEN OXIDE -ION                                                            
+ DD=  1.2500   UZ*EVAU=     0.4905  eV
+    BINDING ENERGY    =     6.0067 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.1791, CHARGE -0.1791   A =     0.000
+  VALENCE ELECTRON DENSITY  6.8209, CHARGE -0.8209   A =     0.000
+     DE=  6.0067       DP=    1.6760   CHRG1= -0.1581   BBB= 236.9227
+ NES= 12  XDE=   5.060  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.1572
+ NP= 13  DELTA CHARGE=  0.0014
+ NCOUNT= 43
+  NITROGEN FLUORIDE                                                              
+ DD=  1.3170   UZ*EVAU=     0.2921  eV
+    BINDING ENERGY    =     5.2809 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.0313, CHARGE -0.0313   A =     0.000
+  VALENCE ELECTRON DENSITY  6.9687, CHARGE  0.0313   A =     0.000
+     DE=  5.2809       DP=    0.1722   CHRG1= -0.0360   BBB= 259.7891
+ NES= 12  XDE=   3.500  XDM=   0.370  Q1(1,1)=  0.0000  Q1(1,2)=  -0.0364
+ NP=  7  DELTA CHARGE=  0.0010
+ NCOUNT= 44
+  DIATOMIC OXYGEN                                                                
+ DD=  1.2080   UZ*EVAU=     1.3649  eV
+    BINDING ENERGY    =     5.8489 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.0000, CHARGE  0.0000   A =     0.000
+  VALENCE ELECTRON DENSITY  6.0000, CHARGE  0.0000   A =     0.000
+     DE=  5.8489       DP=    0.0000   CHRG1=  0.0000   BBB= 257.3663
+ NES= 12  XDE=   5.120  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 45
+  DIATOMIC OXYGEN +ION                                                           
+ DD=  1.1160   UZ*EVAU=     2.7444  eV
+    BINDING ENERGY    =     6.9787 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.5000, CHARGE  0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  5.5000, CHARGE  0.5000   A =     0.000
+     DE=  6.9787       DP=    0.0000   CHRG1=  0.5000   BBB= 240.4252
+ NES= 11  XDE=   6.660  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 46
+  DIATOMIC OXYGEN -ION                                                           
+ DD=  1.3500   UZ*EVAU=     0.4353  eV
+    BINDING ENERGY    =     4.5765 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.5000, CHARGE -0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  6.5000, CHARGE -0.5000   A =     0.000
+     DE=  4.5765       DP=    0.0000   CHRG1= -0.5000   BBB= 279.4291
+ NES= 13  XDE=   4.090  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 47
+  OXYGEN HYDRIDE                                                                 
+ DD=  0.9700   UZ*EVAU=     0.3544  eV
+    BINDING ENERGY    =     4.0279 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.4677, CHARGE -0.4677   A =     0.000
+  VALENCE ELECTRON DENSITY  0.5323, CHARGE  0.4677   A =     0.000
+     DE=  4.0279       DP=    1.8958   CHRG1= -0.4934   BBB= 142.7648
+ NES=  7  XDE=   4.390  XDM=   1.670  Q1(1,1)=  0.0000  Q1(1,2)=  -0.4950
+ NP=  9  DELTA CHARGE=  0.0025
+ NCOUNT= 48
+  OXYGEN HYDRIDE +ION                                                            
+ DD=  1.0290   UZ*EVAU=     0.0997  eV
+    BINDING ENERGY    =     2.9792 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.6903, CHARGE  0.3097   A =     0.000
+  VALENCE ELECTRON DENSITY  0.3097, CHARGE  0.6903   A =     0.000
+     DE=  2.9792       DP=   -0.8182   CHRG1=  0.2891   BBB= 124.5804
+ NES=  6  XDE=   5.000  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.2866
+ NP=  5  DELTA CHARGE=  0.0081
+ NCOUNT= 49
+  OXYGEN HYDRIDE -ION                                                            
+ DD=  0.9700   UZ*EVAU=     0.5350  eV
+    BINDING ENERGY    =     4.3420 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  7.3724, CHARGE -1.3724
+  VALENCE ELECTRON DENSITY  0.6276, CHARGE  0.3724
+     DE=  4.3420       DP=    3.5360   CHRG1= -1.4126   BBB= 165.6395
+ NES=  8  XDE=   4.760  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -1.4146
+ NP= 11  DELTA CHARGE=  0.0028
+ NCOUNT= 50
+  OXYGEN FLUORIDE                                                                
+ DD=  1.3200   UZ*EVAU=     0.9329  eV
+    BINDING ENERGY    =     4.1922 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.0637, CHARGE -0.0637   A =     0.000
+  VALENCE ELECTRON DENSITY  6.9363, CHARGE  0.0637   A =     0.000
+     DE=  4.1922       DP=    0.3513   CHRG1= -0.0766   BBB= 290.4135
+ NES= 13  XDE=   2.200  XDM=   0.004  Q1(1,1)=  0.0000  Q1(1,2)=  -0.0777
+ NP=  7  DELTA CHARGE=  0.0024
+ NCOUNT= 51
+  DIATOMIC FLUORINE                                                              
+ DD=  1.4120   UZ*EVAU=     1.0157  eV
+    BINDING ENERGY    =     2.8531 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  7.0000, CHARGE  0.0000
+  VALENCE ELECTRON DENSITY  7.0000, CHARGE  0.0000
+     DE=  2.8531       DP=    0.0000   CHRG1=  0.0000   BBB= 324.2038
+ NES= 14  XDE=   1.600  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 52
+  DIATOMIC FLUORINE +ION                                                         
+ DD=  1.3220   UZ*EVAU=     2.2299  eV
+    BINDING ENERGY    =     2.9598 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.5000, CHARGE  0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  6.5000, CHARGE  0.5000   A =     0.000
+     DE=  2.9598       DP=    0.0000   CHRG1=  0.5000   BBB= 298.8448
+ NES= 13  XDE=   3.330  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 53
+  DIATOMIC FLUORINE -ION  Re =1.8 +/-0.8 UNCERTAINTY                             
+ DD=  1.6000   UZ*EVAU=     0.1990  eV
+    BINDING ENERGY    =     1.1634 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  7.5000, CHARGE -0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  7.5000, CHARGE -0.5000   A =     0.000
+     DE=  1.1634       DP=    0.0000   CHRG1= -0.5000   BBB= 357.4305
+ NES= 15  XDE=   1.280  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 54
+  FLUORINE HYDRIDE                                                               
+ DD=  0.9170   UZ*EVAU=     0.5020  eV
+    BINDING ENERGY    =     4.8313 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  7.6234, CHARGE -0.6234
+  VALENCE ELECTRON DENSITY  0.3766, CHARGE  0.6234
+     DE=  4.8313       DP=    2.3889   CHRG1= -0.6270   BBB= 184.2897
+ NES=  8  XDE=   5.870  XDM=   1.830  Q1(1,1)=  0.0000  Q1(1,2)=  -0.6274
+ NP=  5  DELTA CHARGE=  0.0011
+ NCOUNT= 55
+  FLUORINE HYDRIDE +ION                                                          
+ DD=  1.0010   UZ*EVAU=     0.1449  eV
+    BINDING ENERGY    =     3.1531 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.7143, CHARGE  0.2857   A =     0.000
+  VALENCE ELECTRON DENSITY  0.2857, CHARGE  0.7143   A =     0.000
+     DE=  3.1531       DP=   -0.8962   CHRG1=  0.2734   BBB= 155.9453
+ NES=  7  XDE=   3.420  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.2719
+ NP=  5  DELTA CHARGE=  0.0043
+ NCOUNT= 56
+  DIATOMIC NEON +ION  1.30 eV                                                    
+ DD=  1.7500   UZ*EVAU=     0.0596  eV
+    BINDING ENERGY    =     0.4533 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  7.5000, CHARGE  0.5000   A =     0.000
+  VALENCE ELECTRON DENSITY  7.5000, CHARGE  0.5000   A =     0.000
+     DE=  0.4533       DP=    0.0000   CHRG1=  0.5000   BBB= 311.1799
+ NES= 15  XDE=   1.300  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.5000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 57
+  NEON HYDRIDE +ION                                                              
+ DD=  0.9800   UZ*EVAU=     0.2852  eV
+    BINDING ENERGY    =     2.2261 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  7.2866, CHARGE  0.7134
+  VALENCE ELECTRON DENSITY  0.7134, CHARGE  0.2866
+     DE=  2.2261       DP=   -0.8740   CHRG1=  0.7401   BBB= 153.2285
+ NES=  8  XDE=   2.080  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.7434
+ NP=  5  DELTA CHARGE=  0.0093
+ NCOUNT= 58
+  BORON DIOXIDE   S1P2                                                           
+ DD=  1.2650   UZ*EVAU=     5.8001  eV
+    BINDING ENERGY    =    13.5229 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.4789, CHARGE -0.4789   A =     0.000
+  VALENCE ELECTRON DENSITY  5.7606, CHARGE  0.2394   A =     0.000
+  VALENCE ELECTRON DENSITY  5.7606, CHARGE  0.2394   A =     0.000
+     DE= 13.5229       DP=    0.0000   CHRG1= -0.4477   BBB= 314.1462
+ NES= 15  XDE=  13.570  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.4458
+ NP=  9  DELTA CHARGE=  0.0029
+ NCOUNT= 59
+  METHANE CH4      S1P3                                                          
+ CARBON HYBRIDIZATION IS S1P3
+ DD=  1.0940   UZ*EVAU=     1.5749  eV
+    BINDING ENERGY    =    17.1722 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.6656, CHARGE -0.6656
+  VALENCE ELECTRON DENSITY  0.8336, CHARGE  0.1664
+  VALENCE ELECTRON DENSITY  0.8336, CHARGE  0.1664
+  VALENCE ELECTRON DENSITY  0.8336, CHARGE  0.1664
+  VALENCE ELECTRON DENSITY  0.8336, CHARGE  0.1664
+     DE= 17.1722       DP=    0.0001   CHRG1= -0.6862   BBB= 107.6832
+ NES=  8  XDE=  17.040  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.6872
+ NP= 11  DELTA CHARGE=  0.0017
+ NCOUNT= 60
+  CARBON DIOXIDE   S1P3                                                          
+ CARBON HYBRIDIZATION IS S1P3
+ DD=  1.1620   UZ*EVAU=     2.5664  eV
+    BINDING ENERGY    =    15.9742 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  4.0630, CHARGE -0.0630
+  VALENCE ELECTRON DENSITY  5.9685, CHARGE  0.0315
+  VALENCE ELECTRON DENSITY  5.9685, CHARGE  0.0315
+     DE= 15.9742       DP=    0.0000   CHRG1= -0.0615   BBB= 332.5406
+ NES= 16  XDE=  16.540  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=  -0.0614
+ NP=  7  DELTA CHARGE=  0.0004
+ NCOUNT= 61
+  TETRAFLUOROMETHANE CF4  S1P3 KARTON (2011) DE                                  
+ CARBON HYBRIDIZATION IS S1P3
+ DD=  1.3190   UZ*EVAU=     1.6570  eV
+    BINDING ENERGY    =    20.2966 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  3.8566, CHARGE  0.1434
+  VALENCE ELECTRON DENSITY  7.0358, CHARGE -0.0358
+  VALENCE ELECTRON DENSITY  7.0358, CHARGE -0.0358
+  VALENCE ELECTRON DENSITY  7.0358, CHARGE -0.0358
+  VALENCE ELECTRON DENSITY  7.0359, CHARGE -0.0359
+     DE= 20.2966       DP=   -0.0004   CHRG1=  0.1000   BBB= 722.4382
+ NES= 32  XDE=  20.190  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0964
+ NP=  7  DELTA CHARGE=  0.0053
+ NCOUNT= 62
+  DIATOMIC OXYGEN                                                                
+ DD=  1.2580   UZ*EVAU=     0.8615  eV
+    BINDING ENERGY    =     5.8933 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.0000, CHARGE  0.0000   A =     0.000
+  VALENCE ELECTRON DENSITY  6.0000, CHARGE  0.0000   A =     0.000
+     DE=  5.8933       DP=    0.0000   CHRG1=  0.0000   BBB= 256.8630
+ NES= 12  XDE=   0.000  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 63
+  DIATOMIC OXYGEN                                                                
+ DD=  1.2080   UZ*EVAU=     1.3649  eV
+    BINDING ENERGY    =     5.8489 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.0000, CHARGE  0.0000   A =     0.000
+  VALENCE ELECTRON DENSITY  6.0000, CHARGE  0.0000   A =     0.000
+     DE=  5.8489       DP=    0.0000   CHRG1=  0.0000   BBB= 257.3663
+ NES= 12  XDE=   0.000  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 64
+  DIATOMIC OXYGEN                                                                
+ DD=  2.0080   UZ*EVAU=     0.0006  eV
+    BINDING ENERGY    =     1.5990 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  6.0000, CHARGE  0.0000   A =     0.000
+  VALENCE ELECTRON DENSITY  6.0000, CHARGE  0.0000   A =     0.000
+     DE=  1.5990       DP=    0.0000   CHRG1=  0.0000   BBB= 256.0020
+ NES= 12  XDE=   0.000  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 65
+  DIATOMIC OXYGEN                                                                
+ DD=  2.8080   UZ*EVAU=     0.0000  eV
+    BINDING ENERGY    =     0.1982 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.9997, CHARGE  0.0003   A =     0.000
+  VALENCE ELECTRON DENSITY  6.0003, CHARGE -0.0003   A =     0.000
+     DE=  0.1982       DP=   -0.0035   CHRG1=  0.0003   BBB= 256.0014
+ NES= 12  XDE=   0.000  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 66
+  DIATOMIC OXYGEN                                                                
+ DD=  3.6080   UZ*EVAU=     0.0000  eV
+    BINDING ENERGY    =     0.0182 eV (Positive if bonding)
+  VALENCE ELECTRON DENSITY  5.9946, CHARGE  0.0054   A =     0.000
+  VALENCE ELECTRON DENSITY  6.0054, CHARGE -0.0054   A =     0.000
+     DE=  0.0182       DP=   -0.0817   CHRG1=  0.0054   BBB= 256.0014
+ NES= 12  XDE=   0.000  XDM=   0.000  Q1(1,1)=  0.0000  Q1(1,2)=   0.0000
+ NP=  3  DELTA CHARGE=  0.0000
+ NCOUNT= 67
+
+  0.243  0.042  0.086  0.000  0.246  0.157  0.117  0.114  0.117  0.107  0.230
+  0.597
+  8.000  9.125  5.862  7.313  8.920  7.872  7.150  9.531 11.325  8.840  2.756
+  4.657
+     43.740      2.207     45.947     54.775     0.54775063E+02
+ 
+
+           Z=  1  EMU= 1.0000   ENEGS=    13.6050
+           Z=  2  EMU= 1.7040   ENEGS=    39.5037
+           Z=  3  EMU= 0.8011   ENEGS=     8.7312
+                  EMU= 0.3896   ENEGP=     2.0651
+           Z=  4  EMU= 1.1862   ENEGS=    19.1416
+                  EMU= 0.8896   ENEGP=    10.7668
+           Z=  5  EMU= 1.5358   ENEGS=    32.0878
+                  EMU= 1.2062   ENEGP=    19.7942
+           Z=  6  EMU= 1.9208   ENEGS=    50.1953
+                  EMU= 1.5434   ENEGP=    32.4075
+           Z=  7  EMU= 2.3059   ENEGS=    72.3370
+                  EMU= 1.8767   ENEGP=    47.9176
+           Z=  8  EMU= 2.6909   ENEGS=    98.5130
+                  EMU= 2.2076   ENEGP=    66.3062
+           Z=  9  EMU= 3.0759   ENEGS=   128.7233
+                  EMU= 2.5370   ENEGP=    87.5637
+           Z= 10  EMU= 3.4610   ENEGS=   162.9678
+                  EMU= 2.8651   ENEGP=   111.6846
