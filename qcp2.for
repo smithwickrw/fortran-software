@@ -172,7 +172,7 @@ C     6 CD0,CE0,CF0,CG0,CH0,CI0,CJ0,CK0,CL0,CM0,CN0,CO0
         CM0=8.840
         CN0=2.756
         CO0=4.657
-        IF(ILM.EQ.1) DEL=0.0005
+        IF(ILM.EQ.1) DEL=0.000
         IF(ILM.EQ.2) DEL=0.004
         IF(ILM.GE.3) DEL=0.004
  191    FORMAT(1X,F7.3)
